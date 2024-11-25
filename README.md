@@ -72,3 +72,7 @@ No installation is necessary! You can use the function by copying the code into 
 ## Compatibility
 
 The `extendedAssignment` function works with all modern browsers and Node.js environments.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
